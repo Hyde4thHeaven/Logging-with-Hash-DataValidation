@@ -5,7 +5,7 @@
 This is example to write Python for record Log-in logging.  
   
 ## First, Let's try a simple one.  
-Using Python's standard library, **import time** to write down the time that user do an incorrect log-in.  
+Using Python's standard library, **import time** to write down the time that user do a log-in.  
 <div align="center"> <img src="log.png" width="100%"/> </div>  
   
 ## Second, Add Hashing.  
